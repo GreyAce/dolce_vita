@@ -7,7 +7,7 @@ spread it over a few days already.
 anyway:
 
 - to create the tables in your db, run the uncomment the two lines inside the app.php file (lines 20,21).
-- enter your valid credentials inside the ".env" file
+- enter your valid DB MYSQL credentials inside the ".env" file
 - run "app.php" 
 
 that's it :)
